@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+body{
+    font-family: 'Grape Nuts',cursive;
+    background-color:#EAF6F6;
+}
+
+hr{
+    border-color: grey;
+    width: 4%;
+    border :dotted 6px;
+    border-bottom: none;
+    margin: 50px  auto;
+}
+h1{
+    color: #66BFBF;
+}
+
+h3{
+    color: #66BFBF;
+}
+.profile-img{
+    width:10%;
+    border-radius: 10%;
+}
